@@ -9,14 +9,14 @@
     padding: 0 20px;
     position: center;
     top: 0px;
-    color: #000000;
+    color: #ce8ef3;
     
 }
 .header-menu ul{
     display: flex;
     gap: 100px;
 }
-.header-menu a{color: #000000;}
+.header-menu a{color: #ce8ef3;}
 a:hover{
     color: rgb(255, 255, 255) !important;
 }
