@@ -1,9 +1,33 @@
-.cor1{
-    background-color: rgb(9, 9, 170);
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
 }
-.cor2{
-    background-color: rgb(87, 4, 4);
+
+body{
+    background-color:#909;
 }
-.cor3{
-    background-color: rgb(53, 3, 53);
+a1{
+    padding: 10px;
+    margin:10px;
+    justify-content: center;
+}
+h3 {
+    color: #fff;
+    margin: 10px;
+}
+
+input {
+
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+
+}
+.botao{
+    width: 30px;
+    height: 20px;
 }

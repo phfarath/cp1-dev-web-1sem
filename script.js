@@ -1,1 +1,3 @@
-alert("Seja Bem-Vindo!")
+function trocar(cor){
+    document.body.style.background = cor
+}

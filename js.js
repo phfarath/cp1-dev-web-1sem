@@ -1,1 +1,1 @@
-alert("Vamos Conhecer Mais Sobre Vinho")
+alert("Seja Bem-Vindo")
